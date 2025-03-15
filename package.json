@@ -7,7 +7,11 @@
     "start:d": "nodemon index.js",
     "'start": "node index.js"
   },
-  "keywords": ["node", "express","Filemetadata"],
+  "keywords": [
+    "node",
+    "express",
+    "Filemetadata"
+  ],
   "author": "SYDNEY MTIMA",
   "license": "ISC",
   "description": "",
@@ -15,9 +19,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
     "nodemon": "^3.1.9"
   },
   "repository": {
     "type": "git",
-    "url": "git+"}
+    "url": "https://github.com/SydneyMtima/File-Metadata.git"
+  }
 }
